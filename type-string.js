@@ -6,7 +6,7 @@ const StringDeNumeros = "0134099";
 const citacao = "Meu nome é ";
 const meuNome = "bradenburg";
 
-// concatenacao (+)
+// concatenação (+)
 
 console.log(citacao + meuNome)
 
