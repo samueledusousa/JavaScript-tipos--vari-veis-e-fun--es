@@ -6,7 +6,7 @@ const StringDeNumeros = "0134099";
 const citacao = "Meu nome é ";
 const meuNome = "bradenburg";
 
-// concatenacao (+)
+// concatenação (+)
 
 console.log(citacao + meuNome)
 
@@ -30,3 +30,4 @@ const senha = "minhasenha1234";
 console.log(senha.length) // 14 caracteres
 
 // Template string OU template literal.
+
